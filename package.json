@@ -70,5 +70,7 @@
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^4.2.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
